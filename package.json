@@ -1,0 +1,19 @@
+{
+  "name": "func-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JgrMeyer1991/func_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JgrMeyer1991/func_practice/issues"
+  },
+  "homepage": "https://github.com/JgrMeyer1991/func_practice#readme"
+}
